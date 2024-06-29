@@ -10,7 +10,11 @@
     <div class="container">
         <div class="card mt-5">
             <div class="card-header text-center">
+<<<<<<< HEAD
                 CRUD Data Pegawai – <strong>TAMBAH DATA</strong> – <a href="https://www.malasngoding.com/category/laravel" target="_blank">www.capekngoding.com</a>
+=======
+                CRUD Data Pegawai – <strong>TAMBAH DATA</strong> – <a href="https://www.malasngoding.com/category/laravel" target="_blank">www.malasngoding.com</a>
+>>>>>>> 5c7bd0f67202f43e80e535da5b78c851ec74a0cd
             </div>
             <div class="card-body">
                 <a href="/pegawai" class="btn btn-primary">Kembali</a>

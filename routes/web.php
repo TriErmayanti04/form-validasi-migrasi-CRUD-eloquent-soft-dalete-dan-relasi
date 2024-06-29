@@ -45,8 +45,12 @@ use App\Http\Controllers\WebController;
 Route::get('/article', [WebController::class, 'index']);
 
 use App\Http\Controllers\ManyController;
+<<<<<<< HEAD
 Route::get('/anggota', [ManyController::class, 'index']);
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 Route::post('/logout', [App\Http\Controllers\HomeController::class, 'logout'])->name('logout');
+=======
+Route::get('/anggota', [ManyController::class, 'index']);
+>>>>>>> 5c7bd0f67202f43e80e535da5b78c851ec74a0cd

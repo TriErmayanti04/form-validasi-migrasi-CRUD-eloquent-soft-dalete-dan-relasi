@@ -4,13 +4,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
+<<<<<<< HEAD
     <title>Tutorial Laravel #21 : CRUD Eloquent Laravel – www.capekngoding.com</title>
+=======
+    <title>Tutorial Laravel #21 : CRUD Eloquent Laravel – www.malasngoding.com</title>
+>>>>>>> 5c7bd0f67202f43e80e535da5b78c851ec74a0cd
 </head>
 <body>
     <div class="container">
         <div class="card mt-5">
             <div class="card-header text-center">
+<<<<<<< HEAD
                 Data Pegawai – <strong>EDIT DATA</strong> – <a href="https://www.malasngoding.com/category/laravel" target="_blank">www.capekngoding.com</a>
+=======
+                CRUD Data Pegawai – <strong>EDIT DATA</strong> – <a href="https://www.malasngoding.com/category/laravel" target="_blank">www.malasngoding.com</a>
+>>>>>>> 5c7bd0f67202f43e80e535da5b78c851ec74a0cd
             </div>
             <div class="card-body">
                 <a href="/pegawai" class="btn btn-primary">Kembali</a>
